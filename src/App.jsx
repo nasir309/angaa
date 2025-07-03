@@ -112,7 +112,7 @@ function App() {
     <div className={`app ${getBackgroundClass()}`}>
       <div className="container">
         <header className="header">
-          <h1 className="title">Weather App</h1>
+          <h1 className="title">Angaa</h1>
           <button 
             className="unit-toggle"
             onClick={toggleTemperatureUnit}
